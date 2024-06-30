@@ -1,0 +1,302 @@
+[]
+1
+training_loss: 8.7593  (0.0876)	time: 0s
+2
+training_loss: 7.0535  (0.1573)	time: 128s
+3
+training_loss: 6.4664  (0.2203)	time: 256s
+4
+training_loss: 6.1361  (0.2795)	time: 383s
+5
+training_loss: 5.8108  (0.3348)	time: 445s
+6
+training_loss: 5.4999  (0.3865)	time: 510s
+7
+training_loss: 5.3501  (0.4361)	time: 597s
+8
+training_loss: 5.1976  (0.4837)	time: 690s
+9
+training_loss: 5.0991  (0.5299)	time: 773s
+10
+training_loss: 5.0338  (0.5749)	time: 851s
+11
+training_loss: 5.0238  (0.6194)	time: 928s
+12
+training_loss: 4.8964  (0.6622)	time: 1005s
+13
+training_loss: 4.7395  (0.7029)	time: 1080s
+14
+training_loss: 4.6530  (0.7424)	time: 1152s
+15
+training_loss: 4.6840  (0.7819)	time: 1224s
+16
+training_loss: 4.6323  (0.8204)	time: 1297s
+17
+training_loss: 4.5323  (0.8575)	time: 1371s
+18
+training_loss: 4.4746  (0.8937)	time: 1442s
+19
+training_loss: 4.4083  (0.9288)	time: 1510s
+20
+training_loss: 4.4114  (0.9636)	time: 1581s
+21
+training_loss: 4.3316  (0.9973)	time: 1650s
+22
+training_loss: 4.3123  (1.0305)	time: 1730s
+23
+training_loss: 4.2820  (1.0630)	time: 1794s
+24
+training_loss: 4.1435  (1.0938)	time: 1862s
+25
+training_loss: 4.1538  (1.1244)	time: 1943s
+26
+training_loss: 4.1071  (1.1542)	time: 2025s
+27
+training_loss: 4.0531  (1.1832)	time: 2101s
+28
+training_loss: 4.0013  (1.2114)	time: 2174s
+29
+training_loss: 3.9664  (1.2389)	time: 2246s
+30
+training_loss: 3.9250  (1.2658)	time: 2317s
+31
+training_loss: 3.8712  (1.2918)	time: 2388s
+32
+training_loss: 3.8154  (1.3171)	time: 2459s
+33
+training_loss: 3.8044  (1.3419)	time: 2529s
+34
+training_loss: 3.8372  (1.3669)	time: 2598s
+35
+training_loss: 3.7613  (1.3908)	time: 2671s
+36
+training_loss: 3.7661  (1.4146)	time: 2734s
+37
+training_loss: 3.7988  (1.4384)	time: 2807s
+38
+training_loss: 3.7680  (1.4617)	time: 2959s
+39
+training_loss: 3.7754  (1.4849)	time: 3021s
+40
+training_loss: 3.7068  (1.5071)	time: 3094s
+41
+training_loss: 3.7527  (1.5295)	time: 3170s
+42
+training_loss: 3.7967  (1.5522)	time: 3243s
+43
+training_loss: 3.7990  (1.5747)	time: 3313s
+44
+training_loss: 3.7691  (1.5966)	time: 3384s
+45
+training_loss: 3.6856  (1.6175)	time: 3455s
+46
+training_loss: 3.6548  (1.6379)	time: 3523s
+47
+training_loss: 3.7036  (1.6585)	time: 3595s
+48
+training_loss: 3.7185  (1.6791)	time: 3672s
+49
+training_loss: 3.6944  (1.6993)	time: 3747s
+50
+training_loss: 3.6485  (1.7188)	time: 3837s
+51
+training_loss: 3.6196  (1.7378)	time: 3910s
+52
+training_loss: 3.6442  (1.7569)	time: 3983s
+53
+training_loss: 3.6512  (1.7758)	time: 4055s
+54
+training_loss: 3.6352  (1.7944)	time: 4128s
+55
+training_loss: 3.6257  (1.8127)	time: 4200s
+56
+training_loss: 3.6034  (1.8306)	time: 4272s
+57
+training_loss: 3.5527  (1.8478)	time: 4344s
+58
+training_loss: 3.5307  (1.8647)	time: 4418s
+59
+training_loss: 3.5638  (1.8817)	time: 4495s
+60
+training_loss: 3.5483  (1.8983)	time: 4564s
+61
+training_loss: 3.5350  (1.9147)	time: 4639s
+62
+training_loss: 3.5559  (1.9311)	time: 4711s
+63
+training_loss: 3.5020  (1.9468)	time: 4783s
+64
+training_loss: 3.4926  (1.9623)	time: 4859s
+65
+training_loss: 3.4524  (1.9772)	time: 4930s
+66
+training_loss: 3.4483  (1.9919)	time: 5004s
+67
+training_loss: 3.4548  (2.0065)	time: 5077s
+68
+training_loss: 3.4846  (2.0213)	time: 5149s
+69
+training_loss: 3.5289  (2.0364)	time: 5214s
+70
+training_loss: 3.4733  (2.0507)	time: 5292s
+71
+training_loss: 3.4261  (2.0645)	time: 5368s
+72
+training_loss: 3.4252  (2.0781)	time: 5443s
+73
+training_loss: 3.4295  (2.0916)	time: 5513s
+74
+training_loss: 3.4241  (2.1049)	time: 5577s
+75
+training_loss: 3.5109  (2.1190)	time: 5650s
+76
+training_loss: 3.5020  (2.1328)	time: 5734s
+77
+training_loss: 3.5072  (2.1466)	time: 5874s
+78
+training_loss: 3.4622  (2.1597)	time: 5937s
+79
+training_loss: 3.4054  (2.1722)	time: 6002s
+80
+training_loss: 3.4319  (2.1848)	time: 6072s
+81
+training_loss: 3.4021  (2.1970)	time: 6148s
+82
+training_loss: 3.3825  (2.2088)	time: 6228s
+83
+training_loss: 3.4459  (2.2212)	time: 6298s
+84
+training_loss: 3.4672  (2.2336)	time: 6370s
+85
+training_loss: 3.3965  (2.2453)	time: 6442s
+86
+training_loss: 3.3731  (2.2566)	time: 6514s
+87
+training_loss: 3.4231  (2.2682)	time: 6579s
+88
+training_loss: 3.4085  (2.2796)	time: 6647s
+89
+training_loss: 3.4274  (2.2911)	time: 6720s
+90
+training_loss: 3.4034  (2.3022)	time: 6799s
+91
+training_loss: 3.4464  (2.3137)	time: 6874s
+92
+training_loss: 3.4715  (2.3252)	time: 6944s
+93
+training_loss: 3.4675  (2.3367)	time: 7017s
+94
+training_loss: 3.4496  (2.3478)	time: 7089s
+95
+training_loss: 3.4477  (2.3588)	time: 7159s
+96
+training_loss: 3.4603  (2.3698)	time: 7225s
+97
+training_loss: 3.4138  (2.3802)	time: 7296s
+98
+training_loss: 3.3802  (2.3902)	time: 7369s
+99
+training_loss: 3.4156  (2.4005)	time: 7452s
+100
+training_loss: 3.3782  (2.4103)	time: 7533s
+101
+training_loss: 3.4255  (2.4204)	time: 7609s
+102
+training_loss: 3.4447  (2.4307)	time: 7683s
+103
+training_loss: 3.4654  (2.4410)	time: 8624s
+104
+training_loss: 3.4615  (2.4512)	time: 8690s
+105
+training_loss: 3.3730  (2.4604)	time: 8757s
+106
+training_loss: 3.4158  (2.4700)	time: 8827s
+107
+training_loss: 3.3804  (2.4791)	time: 10042s
+108
+training_loss: 3.3480  (2.4878)	time: 10098s
+109
+training_loss: 3.3984  (2.4969)	time: 10162s
+110
+training_loss: 3.4126  (2.5061)	time: 10233s
+111
+training_loss: 3.3736  (2.5147)	time: 10306s
+112
+training_loss: 3.3937  (2.5235)	time: 10382s
+113
+training_loss: 3.3808  (2.5321)	time: 10514s
+114
+training_loss: 3.3521  (2.5403)	time: 10582s
+115
+training_loss: 3.3729  (2.5486)	time: 10657s
+116
+training_loss: 3.3859  (2.5570)	time: 10732s
+117
+training_loss: 3.3912  (2.5653)	time: 10818s
+118
+training_loss: 3.4184  (2.5739)	time: 10888s
+119
+training_loss: 3.4268  (2.5824)	time: 10961s
+120
+training_loss: 3.4158  (2.5907)	time: 11032s
+121
+training_loss: 3.4357  (2.5992)	time: 11105s
+122
+training_loss: 3.3999  (2.6072)	time: 11490s
+123
+training_loss: 3.3480  (2.6146)	time: 11551s
+124
+training_loss: 3.3893  (2.6223)	time: 11625s
+125
+training_loss: 3.3532  (2.6296)	time: 11700s
+126
+training_loss: 3.4716  (2.6381)	time: 11769s
+127
+training_loss: 3.3901  (2.6456)	time: 11844s
+128
+training_loss: 3.4141  (2.6533)	time: 11929s
+129
+training_loss: 3.3373  (2.6601)	time: 13040s
+130
+training_loss: 3.4163  (2.6677)	time: 13096s
+131
+training_loss: 3.4156  (2.6752)	time: 13156s
+132
+training_loss: 3.3987  (2.6824)	time: 13226s
+133
+training_loss: 3.4415  (2.6900)	time: 13315s
+134
+training_loss: 3.3720  (2.6968)	time: 14263s
+135
+training_loss: 3.3361  (2.7032)	time: 14327s
+136
+training_loss: 3.2965  (2.7091)	time: 14394s
+137
+training_loss: 3.4308  (2.7163)	time: 14464s
+138
+training_loss: 3.3783  (2.7230)	time: 14535s
+139
+training_loss: 3.3563  (2.7293)	time: 14607s
+140
+training_loss: 3.2940  (2.7349)	time: 14830s
+141
+training_loss: 3.2853  (2.7404)	time: 14898s
+142
+training_loss: 3.3081  (2.7461)	time: 14966s
+143
+training_loss: 3.2892  (2.7516)	time: 15034s
+144
+training_loss: 3.2306  (2.7563)	time: 15105s
+145
+training_loss: 3.2344  (2.7611)	time: 16552s
+146
+training_loss: 3.2259  (2.7658)	time: 16611s
+147
+training_loss: 3.2180  (2.7703)	time: 16678s
+148
+training_loss: 3.2898  (2.7755)	time: 16748s
+149
+training_loss: 3.2522  (2.7803)	time: 16821s
+150
+training_loss: 3.2494  (2.7849)	time: 18176s
+151

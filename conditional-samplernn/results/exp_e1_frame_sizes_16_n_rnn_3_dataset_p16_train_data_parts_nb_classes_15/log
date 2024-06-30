@@ -1,0 +1,116 @@
+[]
+[]
+[]
+1
+training_loss: 8.7107  (0.0871)	time: 0s
+2
+training_loss: 6.8651  (0.1549)	time: 188s
+3
+training_loss: 6.1914  (0.2153)	time: 247s
+4
+training_loss: 5.8133  (0.2712)	time: 309s
+5
+training_loss: 5.4199  (0.3227)	time: 373s
+6
+training_loss: 5.2061  (0.3716)	time: 439s
+7
+training_loss: 5.1003  (0.4188)	time: 517s
+8
+training_loss: 4.9822  (0.4645)	time: 600s
+9
+training_loss: 4.8116  (0.5079)	time: 680s
+10
+training_loss: 4.7833  (0.5507)	time: 754s
+11
+training_loss: 4.6826  (0.5920)	time: 827s
+12
+training_loss: 4.6124  (0.6322)	time: 909s
+13
+training_loss: 4.5113  (0.6710)	time: 972s
+14
+training_loss: 4.3991  (0.7083)	time: 1039s
+15
+training_loss: 4.3230  (0.7444)	time: 1102s
+16
+training_loss: 4.2684  (0.7797)	time: 1167s
+17
+training_loss: 4.2366  (0.8142)	time: 1232s
+18
+training_loss: 4.2488  (0.8486)	time: 1295s
+19
+training_loss: 4.1214  (0.8813)	time: 1361s
+20
+training_loss: 4.1872  (0.9144)	time: 1424s
+21
+training_loss: 4.0861  (0.9461)	time: 1491s
+22
+training_loss: 4.0439  (0.9771)	time: 1555s
+23
+training_loss: 4.0279  (1.0076)	time: 1619s
+24
+training_loss: 4.0157  (1.0377)	time: 1685s
+25
+training_loss: 3.9712  (1.0670)	time: 1750s
+26
+training_loss: 3.9025  (1.0954)	time: 1815s
+27
+training_loss: 3.9343  (1.1237)	time: 1878s
+28
+training_loss: 3.8895  (1.1514)	time: 1941s
+29
+training_loss: 3.8343  (1.1782)	time: 2005s
+30
+training_loss: 3.8566  (1.2050)	time: 2071s
+31
+training_loss: 3.8462  (1.2314)	time: 2136s
+32
+training_loss: 3.8937  (1.2580)	time: 2200s
+33
+training_loss: 3.8455  (1.2839)	time: 2266s
+34
+training_loss: 3.7409  (1.3085)	time: 2332s
+35
+training_loss: 3.7105  (1.3325)	time: 2397s
+36
+training_loss: 3.6902  (1.3561)	time: 2461s
+37
+training_loss: 3.6698  (1.3792)	time: 2525s
+38
+training_loss: 3.6806  (1.4022)	time: 2590s
+39
+training_loss: 3.5953  (1.4242)	time: 2657s
+40
+training_loss: 3.6036  (1.4460)	time: 2721s
+41
+training_loss: 3.6245  (1.4678)	time: 2785s
+42
+training_loss: 3.6420  (1.4895)	time: 2851s
+43
+training_loss: 3.6648  (1.5112)	time: 2917s
+44
+training_loss: 3.6930  (1.5331)	time: 2983s
+45
+training_loss: 3.5972  (1.5537)	time: 3045s
+46
+training_loss: 3.5678  (1.5738)	time: 3110s
+47
+training_loss: 3.6148  (1.5943)	time: 3173s
+48
+training_loss: 3.5700  (1.6140)	time: 3235s
+49
+training_loss: 3.5228  (1.6331)	time: 3299s
+50
+training_loss: 3.5264  (1.6520)	time: 3363s
+51
+training_loss: 3.5286  (1.6708)	time: 3427s
+52
+training_loss: 3.4845  (1.6889)	time: 3490s
+53
+training_loss: 3.4357  (1.7064)	time: 3557s
+54
+training_loss: 3.4345  (1.7237)	time: 3622s
+55
+training_loss: 3.4443  (1.7409)	time: 3687s
+56
+training_loss: 3.4911  (1.7584)	time: 3748s
+57
